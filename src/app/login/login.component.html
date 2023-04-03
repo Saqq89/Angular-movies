@@ -1,0 +1,26 @@
+<div class="login-container">
+    <img class="film" src="assets/images/film.png" alt="">
+    <div class="logo">Rotten Lemons</div>
+    <div class="desc">
+        Rotten Lemons is the world's most trusted recommendations resources for
+        quality entertainment. As the leading online aggregartor of movie and TV show
+        reviews from critics, we provide fans with a comprehensive guide to what's
+        Fresh - and what's Rotten - in theathers and at home. If you're an
+        entertainment fan looking for recommendations, or to share an opinion,
+        you've come to the right place.
+    </div>
+    <div class="login-form">
+        <div class="form-group">
+            <label for="uname">Nombre de Usuario</label>
+            <input type="text" name="uname" placeholder="user" class="form-control" [(ngModel)]="username"/>
+        </div>
+        <div class="form-group">
+            <label for="pword">Contraseña</label>
+            <input type="password" name="pword" placeholder="user" class="form-control" [(ngModel)]="password" />
+        </div>
+        <div class="btn-container">
+            <div class="error">{{ errorMsg }}</div>
+            <button class="btn btn-dark" (click)="login()">Iniciar Sesion</button>
+        </div>
+    </div>
+</div>
