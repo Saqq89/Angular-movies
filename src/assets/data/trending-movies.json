@@ -1,36 +1,36 @@
 [
     {
       "id": 17,
-      "name": "The Handmaid's Tale",
-      "cover": "https://resizing.flixster.com/oUovJu-6glIZAkC3mTsPCAeVOEQ=/180x258/v2/https://resizing.flixster.com/dju8gM_B04ZUc1z5KsCrRmv-TMc=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vODVlZjhiMDYtNDA0MC00NWZjLTk5YzctYTJhN2M4ZGZlYmVjLnBuZw==",
-      "rating": 3.45,
+      "name": "The Super Mario Bros Movie",
+      "cover": "https://resizing.flixster.com/3X1Rr-c7EyijQAqg6WnHIq7v31g=/180x257/v2/https://resizing.flixster.com/nQN8KYVFA4fD23Li3TCLwKYz8GA=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JlYWVjZDdiLTMyYjMtNDgzNy1iN2M0LTgzYWZkODIzMmZmOS5qcGc=",
+      "rating": 2.7,
       "reviews": [
       ]
     },
     {
       "id": 18,
-      "name": "Only murders in the building",
-      "cover": "https://resizing.flixster.com/j_i-5kWKUFGbHek-E_bzyfMwZoU=/180x258/v2/https://resizing.flixster.com/u5U9NV8nYN0OHt_CNRjRxrC4bkU=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vZjNiNjkxZjgtNzBkZC00ZTY0LWFmNzEtYzk3N2MwYjQ5ZThiLnBuZw==",
-      "rating": 2.53,
+      "name": "Avatar: The Way of Water",
+      "cover": "https://resizing.flixster.com/CLzU0r6KbnIVqeXulxxE_0MbuZc=/180x257/v2/https://resizing.flixster.com/gWWM2Ov0VLAuazwELZCVc9grUQI=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzgyMGM0ZDJiLWNmYjAtNGI3NS1hYTgzLTQ5YmU2ZjQwZWE0ZC5qcGc=",
+      "rating": 3.8,
       "reviews": [
       ]
     },
     {
       "id": 19,
-      "name": "Nine perfect strangers",
-      "cover": "https://resizing.flixster.com/yriBt2Hl10Q0nd8COvlzZ3xjBjc=/180x258/v2/https://resizing.flixster.com/5ujXoEX9vD22D_Q-Y0DhDH1KUPE=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vY2FiYTEyM2QtNWFkMi00MTE2LWJmYTUtODJkNjEyYWI0NzQ3LnBuZw==",
-      "rating": 3.12,
+      "name": "A Thousand and One",
+      "cover": "https://resizing.flixster.com/QPb5hRjrj9rRV37j95XUC2H1jjI=/180x258/v2/https://resizing.flixster.com/KJx1vlpDupJIO72dtK0uAYglZok=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzkyNzI4MTJhLTU5Y2MtNDFiZi1iZTVmLTUyYWRkNmQwZDgxYS5qcGc=",
+      "rating": 4.85,
       "reviews": [
       ]
     },
     {
       "id": 20,
-      "name": "Solar Opposites",
-      "cover": "https://resizing.flixster.com/bdnAgX9yiOosqfQq9BQA3H1QFh8=/180x258/v2/https://resizing.flixster.com/PHhwiYpYmFDHKQ99uh2cyumb_Ec=/ems.ZW1zLXByZC1hc3NldHMvdHZzZXJpZXMvNTgzMmQwZDUtNGRjYi00NGFhLWE2MGQtZDQzNDdhMmRiMDI4LmpwZw==",
-      "rating": 4.45,
+      "name": "Cocaine Bear",
+      "cover": "https://resizing.flixster.com/ge1mh36euiZW7GhwgBFIjhL6Ybo=/180x258/v2/https://resizing.flixster.com/HyxB3a8sdK-y6fUI4akiNAT39KQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2I1YjM3YTg1LTg5YTgtNGUzNC1iMjFmLTJkMmIwNmQ1ZTk0YS5qcGc=",
+      "rating": 3.35,
       "reviews": [
         {
-          "author": "Albus Dumbledore",
+          "author": "Joel Jacobson",
           "published_on": "2021-10-13 11:27:39",
           "review": "Awesome movie!",
           "rating": 4.5
@@ -39,17 +39,17 @@
     },
     {
       "id": 21,
-      "name": "Shrill",
-      "cover": "https://resizing.flixster.com/oRGQ7wfOztZ8eR5QSTFqAi8lXfk=/180x258/v2/https://resizing.flixster.com/sdzIZZLrB27H_ylYTb3E901n6LI=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vNjE1MDg1ZDgtMGU4NC00MTQzLTgwODktNWZkYmE5N2FkZDdiLmpwZw==",
-      "rating": 4.12,
+      "name": "Everything Everywhere All at Once",
+      "cover": "https://resizing.flixster.com/I2Z0zDTKJdvO7Akh819HROIhZQ4=/180x257/v2/https://resizing.flixster.com/mx-agGjjsUK1QMyuv3AJhHI3hgo=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzA3ZjU2MGU1LWMxODItNDlkMC1hYzJhLTY2YzMwOGZkMDhiZi5qcGc=",
+      "rating": 4.7,
       "reviews": [
       ]
     },
     {
       "id": 22,
-      "name": "Pen15",
-      "cover": "https://resizing.flixster.com/jSheSxrrniB6KjIrHKV725-qU_o=/180x258/v2/https://resizing.flixster.com/VqgoYN7k4CFX1gs2ZuRqW0t9FB8=/ems.ZW1zLXByZC1hc3NldHMvdHZzZWFzb24vOWRiNTQ0YzUtMjU4Ni00YTAwLThlZTgtOGFiMjU2NmE0YjcwLnBuZw==",
-      "rating": 4.95,
+      "name": "Puss in Boots: The Last Wish",
+      "cover": "https://resizing.flixster.com/GqqIhDj1pGjTU2X34cil5b9dgUo=/180x258/v2/https://resizing.flixster.com/vtIcjOYiM-QBXQyXhTFFgQoRkDw=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2JmNjM3ZTc2LTk5ZmMtNGJhNy04MDAzLWI3M2IxNmExNDNkYi5qcGc=",
+      "rating": 4.75,
       "reviews": [
       ]
     }
